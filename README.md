@@ -31,13 +31,14 @@ Next.js(Frontend)와 Nest.js(Backend)를 결합하여 구현한 실시간 채팅
 
 ---
 
-## 📖 How to Run
+## 📖 How to Use
 
 ### Backend
 ```bash
 cd back-end
 npm install
 npm run start
+```
 
 ### Frontend
 ```bash
